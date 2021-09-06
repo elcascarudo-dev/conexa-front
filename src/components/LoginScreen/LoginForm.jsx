@@ -22,7 +22,7 @@ export const LoginForm = ( {handleLogin, handleInputChange} ) => {
             className="w-100 btn btn-lg btn-primary" 
             type="submit"
           >
-            Registrarce
+            Ingresar
           </button>
         </form>
         <Link to="/register">¡Si no tenes usuario registrate!</Link>
